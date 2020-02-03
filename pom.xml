@@ -20,7 +20,8 @@
       </plugin>
       <plugin>
         <groupId>org.springframework</groupId>
-        <artifactId>spring-aop:5.1.6.RELEASE</artifactId>
+        <artifactId>spring-aop</artifactId>
+        <version>5.1.6.RELEASE</version>
       </plugin>
     </plugins>
   </build>
