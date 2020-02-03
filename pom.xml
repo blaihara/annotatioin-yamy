@@ -17,10 +17,10 @@
       <plugin>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-maven-plugin</artifactId>
+      </plugin>
       <plugin>
         <groupId>org.springframework</groupId>
         <artifactId>spring-aop:5.1.6.RELEASE</artifactId>
-      </plugin>
       </plugin>
     </plugins>
   </build>
